@@ -1,0 +1,4 @@
+epochs=200
+lr = 0.3
+batch size = 32
+eps = 1e-8

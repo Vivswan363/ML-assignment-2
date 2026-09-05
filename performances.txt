@@ -1,0 +1,3 @@
+baseline: average precision score = 0.7765402654260741
+class weighing: average precision score = 0.7748071342472921
+class weighing 2: average precision score = 0.777690889842568
